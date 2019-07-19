@@ -1,1 +1,3 @@
-# music_light_project
+# music light project
+
+project by Kevin and Hyunsu
